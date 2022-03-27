@@ -20,6 +20,6 @@ For a company with size of 240,124 current employees, 1,549 elgible mentors may 
 
 ![Summary](/Resource/Mentor_count.png)
 
-If we expand the age criteria to include the ages born between 1956  through 1964, there are are additional 19,089 Senior Engineers that will are elgible, and 54,111 Senior Staff elgible. In order to include these young employees ready for long term commitment to the company, we should expand the mentor programs to those born in these years and then continue reduce the numbers as the those born in 1965 are ready to retire. This will help with the turnovers and will encourage a better mentorship programs to come
+If we expand the age criteria to include the ages born between 1956  through 1964, there are are additional 19,089 Senior Engineers that will be elgible, and 54,111 Senior Staff. In order to include these younger employees ready for long term commitment to the company, we should expand the mentor programs to those born in these years and then continue reduce the numbers as the those born in 1965 are ready to retire. This will help with the turnovers and will encourage a better mentorship programs to come
 
 ![Summary](/Resource/1956-1964.png)
